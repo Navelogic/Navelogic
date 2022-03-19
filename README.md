@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🇺🇸 Hey! I'm just a student, don't take anything seriously. -- 🇧🇷 Oi! Eu sou só um estudante, não leva nada a sério.
 
 <!--
 **Navelogic/Navelogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
