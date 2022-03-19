@@ -1,4 +1,5 @@
-### 🇺🇸 Hey! I'm just a student, don't take anything seriously. -- 🇧🇷 Oi! Eu sou só um estudante, não leva nada a sério.
+### 🇺🇸 Hey! I'm just a student, don't take anything seriously.
+### 🇧🇷 Oi! Eu sou só um estudante, não leva nada a sério.
 
 <div align="center">
   <a href="https://github.com/Navelogic">
