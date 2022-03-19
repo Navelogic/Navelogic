@@ -1,4 +1,4 @@
-### 🇺🇸 Hey! I'm just a student, don't take anything seriously.
+### 🇺🇸 Hey! I'm just a student, so don't take anything seriously.
 ### 🇧🇷 Oi! Eu sou só um estudante, não leva nada a sério.
 
 <div align="center">
