@@ -1,4 +1,4 @@
-<h2>Apenas um estudante de TI<h2>
+<h2>Eterno estudante<h2>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Navelogic&style=flat-square&label=Visitas+no+perfil..." alt="Visitas no perfil..." /> </p> -->
 <div align="center">
   <a href="https://github.com/Navelogic">
