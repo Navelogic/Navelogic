@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-8a63d2?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/arian-weslley-bb10a924b/)
 [![Twitter](https://img.shields.io/badge/-Twitter-8a63d2?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/offarianweslley)
 
-:bat: My favorite theme for development is [DRACULA](https://draculatheme.com/)
 
 ## Studying 📚:
 <div>
